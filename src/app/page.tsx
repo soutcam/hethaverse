@@ -30,7 +30,7 @@ export default function Page(){
   return (
     <main style={{maxWidth:900,margin:'40px auto',padding:'0 16px',fontFamily:'system-ui,sans-serif'}}>
       <h1>HETHAVERSE — Drug Interaction Checker</h1>
-      <p>Starter UI (mock interactions).</p>
+      <p>Starter UI (mock interactions, provider-stub).</p>
 
       <div style={{border:'1px solid #e5e5e5',borderRadius:12,padding:16}}>
         <label style={{fontWeight:700,display:'block'}}>Medications (one per line or comma)</label>
